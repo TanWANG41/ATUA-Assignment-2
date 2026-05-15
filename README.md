@@ -1,5 +1,4 @@
-# ATUA-Assignment-2
-GCN assignment for predicting PM2.5 across London Output Areas
+# GCN assignment for predicting PM2.5 across London Output Areas
 
 ## Contents
 - `ATUA_Assignment_2.ipynb`: source notebook
